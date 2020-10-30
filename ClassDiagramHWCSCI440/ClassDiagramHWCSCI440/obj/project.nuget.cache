@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s0W+bIHLp0jP1EfTuDPH5Fh5K7uoJZyYhI8Im5AZml1E5x+ZrWoythhmklyZDBHEnWeldnse4Hfc/xBlhIIGeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trent\\Desktop\\Homework\\202110 Fall 2020\\CSCI440 Intro to Modeling and Simulation\\Week 6\\ClassDiagramHWCSCI440\\ClassDiagramHWCSCI440\\ClassDiagramHWCSCI440.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trent\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\trent\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

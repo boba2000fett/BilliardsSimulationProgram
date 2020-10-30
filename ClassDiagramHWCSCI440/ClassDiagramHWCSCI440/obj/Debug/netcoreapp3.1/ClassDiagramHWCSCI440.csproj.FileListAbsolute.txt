@@ -1,0 +1,13 @@
+C:\Users\trent\Desktop\Homework\202110 Fall 2020\CSCI440 Intro to Modeling and Simulation\Week 6\ClassDiagramHWCSCI440\ClassDiagramHWCSCI440\bin\Debug\netcoreapp3.1\ClassDiagramHWCSCI440.exe
+C:\Users\trent\Desktop\Homework\202110 Fall 2020\CSCI440 Intro to Modeling and Simulation\Week 6\ClassDiagramHWCSCI440\ClassDiagramHWCSCI440\bin\Debug\netcoreapp3.1\ClassDiagramHWCSCI440.deps.json
+C:\Users\trent\Desktop\Homework\202110 Fall 2020\CSCI440 Intro to Modeling and Simulation\Week 6\ClassDiagramHWCSCI440\ClassDiagramHWCSCI440\bin\Debug\netcoreapp3.1\ClassDiagramHWCSCI440.runtimeconfig.json
+C:\Users\trent\Desktop\Homework\202110 Fall 2020\CSCI440 Intro to Modeling and Simulation\Week 6\ClassDiagramHWCSCI440\ClassDiagramHWCSCI440\bin\Debug\netcoreapp3.1\ClassDiagramHWCSCI440.runtimeconfig.dev.json
+C:\Users\trent\Desktop\Homework\202110 Fall 2020\CSCI440 Intro to Modeling and Simulation\Week 6\ClassDiagramHWCSCI440\ClassDiagramHWCSCI440\bin\Debug\netcoreapp3.1\ClassDiagramHWCSCI440.dll
+C:\Users\trent\Desktop\Homework\202110 Fall 2020\CSCI440 Intro to Modeling and Simulation\Week 6\ClassDiagramHWCSCI440\ClassDiagramHWCSCI440\bin\Debug\netcoreapp3.1\ClassDiagramHWCSCI440.pdb
+C:\Users\trent\Desktop\Homework\202110 Fall 2020\CSCI440 Intro to Modeling and Simulation\Week 6\ClassDiagramHWCSCI440\ClassDiagramHWCSCI440\obj\Debug\netcoreapp3.1\ClassDiagramHWCSCI440.csprojAssemblyReference.cache
+C:\Users\trent\Desktop\Homework\202110 Fall 2020\CSCI440 Intro to Modeling and Simulation\Week 6\ClassDiagramHWCSCI440\ClassDiagramHWCSCI440\obj\Debug\netcoreapp3.1\ClassDiagramHWCSCI440.AssemblyInfoInputs.cache
+C:\Users\trent\Desktop\Homework\202110 Fall 2020\CSCI440 Intro to Modeling and Simulation\Week 6\ClassDiagramHWCSCI440\ClassDiagramHWCSCI440\obj\Debug\netcoreapp3.1\ClassDiagramHWCSCI440.AssemblyInfo.cs
+C:\Users\trent\Desktop\Homework\202110 Fall 2020\CSCI440 Intro to Modeling and Simulation\Week 6\ClassDiagramHWCSCI440\ClassDiagramHWCSCI440\obj\Debug\netcoreapp3.1\ClassDiagramHWCSCI440.csproj.CoreCompileInputs.cache
+C:\Users\trent\Desktop\Homework\202110 Fall 2020\CSCI440 Intro to Modeling and Simulation\Week 6\ClassDiagramHWCSCI440\ClassDiagramHWCSCI440\obj\Debug\netcoreapp3.1\ClassDiagramHWCSCI440.dll
+C:\Users\trent\Desktop\Homework\202110 Fall 2020\CSCI440 Intro to Modeling and Simulation\Week 6\ClassDiagramHWCSCI440\ClassDiagramHWCSCI440\obj\Debug\netcoreapp3.1\ClassDiagramHWCSCI440.pdb
+C:\Users\trent\Desktop\Homework\202110 Fall 2020\CSCI440 Intro to Modeling and Simulation\Week 6\ClassDiagramHWCSCI440\ClassDiagramHWCSCI440\obj\Debug\netcoreapp3.1\ClassDiagramHWCSCI440.genruntimeconfig.cache
