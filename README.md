@@ -1,1 +1,1 @@
-# BilliardsSimulationProgramC-
+Here is a Billiards C# Simulation Application! This simulation represents a simulation of the game, with there being 2 players. The simulation utilizes random probability to determine whether players pocket or miss a ball. Give the program a run, and you will see diagnostics from that run of the simulation!
